@@ -1,6 +1,6 @@
 library: true
 name: synacktiv/qlinspector-java-extensions
-version: 0.0.2
+version: 0.0.3
 extensionTargets:
   codeql/java-all: '*'
 dataExtensions:
