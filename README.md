@@ -1,6 +1,6 @@
 # QLinspector
 
-Finding Java gadget chains with CodeQL.
+Finding Java/C# gadget chains with CodeQL.
 More information in our [article](https://www.synacktiv.com/publications/finding-gadgets-like-its-2022.html)
 
 ## Installation
